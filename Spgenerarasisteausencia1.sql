@@ -16,6 +16,7 @@ CREATE PROCEDURE spGenerarAsisteAusencia
 		    @OkRef		varchar(255)	OUTPUT
 --//WITH ENCRYPTION
 --ch
+--revision
 AS BEGIN
   DECLARE
     @ID			int,
